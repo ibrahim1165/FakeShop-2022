@@ -15,7 +15,7 @@ const Services = () => {
             <p className="mt-4">We are Best Product Provider</p>
         </div>
         <div className="grid grid-cols-1  md:grid-cols-3 lg:grid-cols-3 mx-auto px-1 lg:px-16 mt-20">
-           {services.slice(0,6).map((service) =><Service
+           {services.map((service) =><Service
            key={service.id}
            service={service}
            ></Service>)}
