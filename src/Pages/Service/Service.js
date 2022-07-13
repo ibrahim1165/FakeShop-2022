@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
 const Service = ({ service }) => {
     const { title, description, image, price } = service;
     return (

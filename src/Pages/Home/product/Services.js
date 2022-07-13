@@ -21,7 +21,7 @@ const Services = () => {
                ></Service>)}
             </div>
             <div>
-                <Link className=" mt-16 mb-8 btn btn-outline btn-secondary" to="">More Product</Link>
+                <Link className=" mt-12 mb-8 btn btn-outline btn-secondary" to="/service">More Product</Link>
             </div>
         </div>
     );
