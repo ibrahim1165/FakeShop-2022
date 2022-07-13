@@ -1,9 +1,10 @@
 import React from 'react';
 const Carousal = () => {
+
     return (
-        <div>
-             
-        </div>
+      <div>
+
+      </div>
     );
 };
 
