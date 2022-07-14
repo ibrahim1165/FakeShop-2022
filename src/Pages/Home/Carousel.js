@@ -1,4 +1,6 @@
 import React from 'react';
+import j1 from '../../image/j1.jpg'
+import j2 from '../../image/j3.jpg'
 const Carousal = () => {
 
   return (
@@ -29,21 +31,21 @@ const Carousal = () => {
         <div className="carousel-inner relative w-full overflow-hidden">
           <div className="carousel-item active float-left w-full">
             <img
-              src="https://cdn.mos.cms.futurecdn.net/6t8Zh249QiFmVnkQdCCtHK.jpg"
+              src={j1}
               className="block w-full"
               alt="Wild Landscape"
             />
           </div>
           <div className="carousel-item float-left w-full">
             <img
-              src="https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/c20gqydyxbbt0jo0_1593062345.jpeg"
+              src="https://cdn.mos.cms.futurecdn.net/6t8Zh249QiFmVnkQdCCtHK.jpg"
               className="block w-full"
               alt="Camera"
             />
           </div>
           <div className="carousel-item float-left w-full">
             <img
-              src="https://cdn.mos.cms.futurecdn.net/bwcE9CwvUuDvp99XcBywwm.jpeg"
+              src={j2}
               className="block w-full"
               alt="Exotic Fruits"
             />
