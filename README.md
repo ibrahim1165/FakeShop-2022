@@ -13,6 +13,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+# E-Commerce Website.
+* first of all Navigation 
+* carousel 
+* Home page 6 Product add.
+* service page ..
+* dattails page ..
+* blog.
+* Contact .
+* Last Footer section..
 
 ### `npm test`
 
